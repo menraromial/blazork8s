@@ -128,7 +128,7 @@ spec:
     spec:
       containers:
         - name: blazork8s
-          image: ghcr.io/weibaohui/blazork8s:0.2.7
+          image: menraromial/blazork8s:0.2.7-arm
           env:
 #            - name: ASPNETCORE_ENVIRONMENT
 #              value: "Development"
